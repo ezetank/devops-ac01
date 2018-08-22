@@ -1,1 +1,4 @@
-# devops-aula01
+Integrantes
+
+Nome: Ezequiel Normey
+RA: 1800836
