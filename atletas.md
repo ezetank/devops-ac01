@@ -1,3 +1,3 @@
 # Melhores atletas
-<Usain Bolt>
+<Minotauro>
 ---- 
